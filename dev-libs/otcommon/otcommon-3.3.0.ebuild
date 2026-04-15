@@ -9,13 +9,13 @@ inherit cmake
 
 DESCRIPTION="CMake modules and dev support files for libopentxs and dependent projects"
 HOMEPAGE="https://github.com/Open-Transactions/otcommon"
-GIT_COMMIT_HASH="c349997a97b2f6b95306714c507cad3d0078c15c"
-GIT_DESCRIBE="3.2.0-0-gc349997"
+GIT_COMMIT_HASH="bdc1a5d80bf9ad0703a364a382d9af1dbc7f4624"
+GIT_DESCRIBE="3.3.0-0-gbdc1a5d"
 SRC_URI="https://github.com/Open-Transactions/otcommon/archive/${GIT_COMMIT_HASH}.tar.gz"
 
 LICENSE="MPL-2.0"
 SLOT="0"
-KEYWORDS="alpha amd64 arm arm64 hppa ia64 loong m68k mips ppc ppc64 riscv s390 sparc x86"
+KEYWORDS="amd64 arm arm64 ia64 loong m68k mips ppc ppc64 riscv s390 sparc x86"
 
 DEPEND=">=dev-build/cmake-3.26.0"
 RDEPEND="${DEPEND}"

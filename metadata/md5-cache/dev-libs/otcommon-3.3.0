@@ -9,6 +9,6 @@ KEYWORDS=amd64 arm arm64 ia64 loong m68k mips ppc ppc64 riscv s390 sparc x86
 LICENSE=MPL-2.0
 RDEPEND=>=dev-build/cmake-3.26.0
 SLOT=0
-SRC_URI=https://github.com/Open-Transactions/otcommon/archive/a8cb2a10e7eff4fdece28feea681541b70728053.tar.gz
+SRC_URI=https://github.com/Open-Transactions/otcommon/archive/bdc1a5d80bf9ad0703a364a382d9af1dbc7f4624.tar.gz
 _eclasses_=toolchain-funcs	5195689ff6a73b0e789acfa09d4fbcb9	flag-o-matic	fd3558f73f6503093adee69adf41020d	multiprocessing	45d0620f25c2f063ad6276ecd9ed9399	ninja-utils	d063ea1900a793f93eb095010d6d9156	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	3395ce6618fc5c7af03335471b896644
-_md5_=b230e454c6b3711860247fcdfb7e1200
+_md5_=6ce531046fafb5a64b3414f5dd5e41c1
